@@ -1,1 +1,1 @@
-{"trim": "", "base": "8d09610", "trimbase": "", "parent": "debian/eloquent/rqt_common_plugins", "previous": "3efec12"}
+{"base": "718b958", "parent": "debian/verystable/rqt_common_plugins", "previous": "f974f27", "trim": "", "trimbase": ""}
